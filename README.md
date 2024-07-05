@@ -13,6 +13,7 @@ The __CIFAR-10__ dataset is a well-established benchmark in the field of machine
 - Truck
 
 Each class contains an equal distribution, boasting 6,000 images. From the total image count, 50,000 are designated for training while the remaining 10,000 are set aside for testing.
+
 __Data Insights and Exploration__
    - Familiarize with the CIFAR-10 dataset.
    - Visually inspect sample images from various classes to understand data distribution.
